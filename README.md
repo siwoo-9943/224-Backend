@@ -100,7 +100,7 @@
 <details>
 <summary>회원탈퇴 (Click)</summary>
 
-<img src="https://github.com/user-attachments/assets/a4e30c1e-d6a2-4fe6-bb5a-50909b260d8f" width="500">
+<img src="https://github.com/user-attachments/assets/bdaf5d8f-2a5d-43cb-9a96-63bcb350f90b" width="500">
 <br>
 -"동의합니다" 유효성 검사를 통과하면 회원 탈퇴가 가능해집니다.
 </details>
